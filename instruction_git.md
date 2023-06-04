@@ -78,4 +78,5 @@
 
     git diff <hash1> <hash2>
 
-    
+## Ветвление в GIT
+
