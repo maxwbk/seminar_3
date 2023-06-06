@@ -98,4 +98,4 @@
 
 Для того чтобы удалить ветку, необходимо переключится на другую ветку и ввести команду:
 
-    git branch -d <branch_name> 
+    git branch -d <branch_name_to_delete> 
