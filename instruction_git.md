@@ -110,3 +110,4 @@
 
     git merge <name_another_branch>
     
+## Удалёные репозитории
